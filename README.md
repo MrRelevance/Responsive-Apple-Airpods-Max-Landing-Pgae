@@ -1,8 +1,14 @@
-# Responsive-Apple-Airpods-Max-Landing-Pgae
+# Responsive Apple AirPod Max Website Landing Page
 
-Here's the complete code for the landing page.
-If you are interested, I'll recommend you watch the full video on my Youtube Channel. You will learn how I create the Hotspot tooltip and every other aspect of the landing page
+## [Watch it on youtube](https://youtu.be/QStzfcpcUWQ)
 
-I have also included the Figma design file in the description of the youtube video incase you want to check that out too.
+### Responsive Apple AirPod Max Website Landing Page
 
-This is my version of the Apple AirPods Max Landing Page. I hope you like it. Watch the full tutorial on my youtube channel https://bit.ly/3cZvaEK Please Like and Subscribe.
+- Responsive Apple AirPod Max Website Landing Page Using HTML CSS & JavaScript.
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+💙 Join the channel to see more videos like this. [JustPerfect Designs](https://www.youtube.com/c/Justperfectdesigns)
+
+![preview img](/preview.jpg)
