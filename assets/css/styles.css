@@ -15,6 +15,10 @@
 	box-sizing: border-box;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	margin: 4rem 0 0 0;
 	font-size: 15px;
