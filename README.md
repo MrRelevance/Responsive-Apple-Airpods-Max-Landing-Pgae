@@ -11,4 +11,4 @@
 
 💙 Join the channel to see more videos like this. [JustPerfect Designs](https://www.youtube.com/c/Justperfectdesigns)
 
-![preview img](/preview.jpg)
+![preview img](/Preview.jpg)
